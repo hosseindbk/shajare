@@ -46,28 +46,25 @@
 
             <div class="col-lg-2 col-md-6 col-sm-6">
                 <div class="single-footer-widget">
-                    <h3>شرکت</h3>
+                    <h3>منو ما</h3>
 
                     <ul class="services-list">
                         <li><a href="#">درباره ما</a></li>
-                        <li><a href="#">خدمات</a></li>
-                        <li><a href="#">امکانات</a></li>
-                        <li><a href="#">قیمت ها</a></li>
                         <li><a href="#">آخرین اخبار</a></li>
+                        <li><a href="#">حریم خصوصی</a></li>
+                        <li><a href="#">شرایط و ضوابط</a></li>
                     </ul>
                 </div>
             </div>
 
             <div class="col-lg-2 col-md-6 col-sm-6">
                 <div class="single-footer-widget">
-                    <h3>پشتیبانی</h3>
+                    <h3>لینک های مرتبط</h3>
 
                     <ul class="support-list">
-                        <li><a href="#">سوالات متداول</a></li>
-                        <li><a href="#">حریم خصوصی</a></li>
-                        <li><a href="#">شرایط و ضوابط</a></li>
-                        <li><a href="#">انجمن</a></li>
-                        <li><a href="#">تماس با ما</a></li>
+                        <li><a href="#">سایت رهبری</a></li>
+                        <li><a href="#">سایت حوزه علمیه</a></li>
+                        <li><a href="#">سایت سازمان تبلیغات</a></li>
                     </ul>
                 </div>
             </div>
@@ -77,8 +74,8 @@
                     <h3>اطلاعات تماس</h3>
 
                     <ul class="footer-contact-info">
-                        <li>موقعیت: <a href="https://goo.gl/maps/MQ78iGP5g9VgZcJ38" target="_blank">کشور شما ، استان و شهر ، محله سکونت شما</a></li>
-                        <li>ایمیل: <a href="mailto:hello@spacle.com">hello@spacle.com</a></li>
+                        <li>موقعیت: <a href="https://goo.gl/maps/MQ78iGP5g9VgZcJ38" target="_blank">تهران، چیذر، خیابان علمیه، موسسه شجره طیبه</a></li>
+                        <li>ایمیل: <a href="mailto:hello@spacle.com">info@shajare.ir</a></li>
                         <li>تلفن: <a href="tel:021-12345678">021-12345678</a></li>
                     </ul>
                     <ul class="social">
@@ -92,7 +89,7 @@
         </div>
 
         <div class="copyright-area">
-            <p>کپی رایت <i class="bx bx-copyright"></i> 1402 استراکس. تمام حقوق قالب محفوظ است. طراحی و توسعه توسط <a href="https://www.rtl-theme.com/author/barat/" target="_blank">Barat Hadian</a></p>
+            <p><i class="bx bx-copyright"></i> تمام محتوای این وبسایت به موسسه فرهنگی هنری شجره طیبه تعلق دارد. طراحی و توسعه توسط <a href="https://bestagroup.ir" target="_blank">Bestagroup</a></p>
         </div>
     </div>
 </footer>
